@@ -1,0 +1,5 @@
+pymc==5.16.1
+graphviz
+HSSM
+ipykernel
+ipywidgets
